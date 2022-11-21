@@ -1,4 +1,4 @@
-# Deadlock
+# Deadlock avoidance
 # Banker's Algorithm
 The program developed is a C++ implementation of Banker's Algorithm to detect deadlock.
 
